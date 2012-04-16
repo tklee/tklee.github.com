@@ -3,4 +3,4 @@ H1 {
 color: white; background: black; FONT-FAMILY: helvetica; FONT-SIZE: 18pt; FONT-STYLE: normal; FONT-VARIANT: normal
 }
 
-BODY { background: url("http://tklee.github.com/space.png")
+BODY { background-color: black; color: white; background-image: url("http://tklee.github.com/space.png")
